@@ -3,7 +3,7 @@
 A clean and simple travel landing page built to practice web layout skills using HTML and CSS. This project focuses on building a responsive structure and attractive visuals for a travel agency.
 
 ## 🔗 Live Demo
-[View the Live Site here](https://github.com/Maha1320/travelz-travel-landing-page.git)
+[View the Live Site here]( https://maha1320.github.io/travelz-travel-landing-page/)
 
 ## Features
 - **Clean Layout:** Organized sections for destinations and travel info.
