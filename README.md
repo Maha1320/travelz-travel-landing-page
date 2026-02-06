@@ -21,4 +21,4 @@ A clean and simple travel landing page built to practice web layout skills using
 - `images/` - High-quality travel images used in the site.
 
 ---
-**Developed by [Your Full Name]** GitHub: [@Maha1320](https://github.com/Maha1320)
+**Developed by [Mahalakshmi]** GitHub: [@Maha1320](https://github.com/Maha1320)
